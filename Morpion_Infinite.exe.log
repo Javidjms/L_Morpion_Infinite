@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "Morpion_Infinite.py", line 280, in <module>
+  File "Morpion_Infinite.py", line 38, in __init__
+  File "Tkinter.pyc", line 1643, in wm_iconbitmap
+_tkinter.TclError: bitmap "Image/mini_token.ico" not defined
+Traceback (most recent call last):
+  File "Morpion_Infinite.py", line 280, in <module>
+  File "Morpion_Infinite.py", line 38, in __init__
+  File "Tkinter.pyc", line 1643, in wm_iconbitmap
+_tkinter.TclError: bitmap "Image/mini_token.ico" not defined
+Traceback (most recent call last):
+  File "Morpion_Infinite.py", line 280, in <module>
+  File "Morpion_Infinite.py", line 38, in __init__
+  File "Tkinter.pyc", line 1643, in wm_iconbitmap
+_tkinter.TclError: bitmap "Image/mini_token.ico" not defined
